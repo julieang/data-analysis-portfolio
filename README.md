@@ -31,3 +31,7 @@ The projects focus on applying data analysis techniques to real-world business p
 
 ## 👤 About Me
 Junior Data Analyst in training at TripleTen, focused on data-driven decision making and business analysis.
+
+## 📊 Dashboards (Next steps)
+
+Interactive dashboards (Tableau Public) will be added as part of ongoing portfolio improvements.
