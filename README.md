@@ -53,3 +53,20 @@ https://public.tableau.com/views/SuperstoreSalesbyCategory_17678330699190/Hoja1?
 
 ## 🚀 Next Steps
 This portfolio will continue to grow with additional projects and interactive dashboards (Tableau Public).
+
+## Projects
+
+### Andes Retail Dashboard (Power BI)
+
+Analysis of the commercial performance of Andes Retail Group for 2024–2025 using an interactive Power BI dashboard.
+
+Key aspects analyzed:
+
+- Revenue evolution over time
+- Performance comparison across countries
+- Customer segment analysis
+- Product category performance
+- Seasonal patterns in sales
+
+🔗 Project repository:  
+https://github.com/julieang/andes-retail-dashboard
