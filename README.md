@@ -70,3 +70,10 @@ Key aspects analyzed:
 
 🔗 Project repository:  
 https://github.com/julieang/andes-retail-dashboard
+
+## Andes Retail Dashboard (Power BI)
+
+Interactive Power BI dashboard analyzing the commercial performance of Andes Retail Group during 2024–2025.
+
+Project repository:
+https://github.com/julieang/andes-retail-dashboard
