@@ -1,79 +1,88 @@
 # Data Analysis Portfolio
 
-This repository contains data analysis projects developed during my training as a **Junior Data Analyst at TripleTen**.  
-The projects focus on applying data analysis techniques to real-world business problems.
+## Sobre este portafolio
 
-## 📂 Projects
+Este repositorio reúne una selección de proyectos de análisis de datos desarrollados durante mi formación como Analista de Datos Junior.
 
-### 1️⃣ HR Employee Attrition Analysis
-**Context:** Analysis of employee data to identify factors associated with employee attrition.  
-**Objective:** Understand patterns related to workforce turnover.  
-**Tools:** Excel, Google Sheets  
-**Key Outputs:** Data cleaning, exploratory analysis, summary insights.
+Los proyectos muestran habilidades en limpieza de datos, análisis exploratorio, visualización, creación de dashboards, análisis de negocio y comunicación de hallazgos para apoyar la toma de decisiones.
 
----
+## Herramientas principales
 
-### 2️⃣ Superstore Sales Analysis
-**Context:** Retail sales data analysis.  
-**Objective:** Identify sales trends by category and region.  
-**Tools:** Excel, Google Sheets  
-**Key Outputs:** Pivot tables, charts, and performance insights.
+- Python
+- Pandas
+- SQL
+- Excel / Google Sheets
+- Power BI
+- Jupyter Notebook
+- Google Colab
+- Análisis exploratorio de datos
+- Visualización de datos
+- Limpieza y transformación de datos
 
----
+## Proyectos destacados
 
-## 🛠️ Tools & Technologies
-- Excel
-- Google Sheets
-- SQL (introductory)
-- Python (introductory)
-- Tableau (introductory)
-- Git & GitHub
+### 1. RappiPlus Business Analysis
 
-## 👤 About Me
-Junior Data Analyst in training at TripleTen, focused on data-driven decision making and business analysis.
+Análisis de ventas, rentabilidad, funnel de conversión, cohortes de retención y prueba A/B para evaluar el desempeño de un negocio digital.
 
-## 📊 Dashboards (Next steps)
+**Herramientas:** Python, Pandas, Power BI, análisis de funnel, cohortes y A/B testing.
 
-Interactive dashboards (Tableau Public) will be added as part of ongoing portfolio improvements.
-
-https://public.tableau.com/views/SuperstoreSalesbyCategory_17678330699190/Hoja1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
-## 📁 Portfolio Projects
-
-### 📊 Excel Sales Analysis
-**Description:** Analysis of sales data to identify trends, category performance, and key insights for decision-making.  
-**Tools:** Excel, Pivot Tables, Data Cleaning  
-**Dataset:** Superstore  
-
-### 👥 HR Employee Attrition Analysis
-**Description:** Exploratory analysis to understand employee attrition patterns and contributing factors.  
-**Tools:** Excel, Data Cleaning, Basic Analysis  
+**Repositorio:** [rappiplus-business-analysis](https://github.com/julieang/rappiplus-business-analysis)
 
 ---
 
-## 🚀 Next Steps
-This portfolio will continue to grow with additional projects and interactive dashboards (Tableau Public).
+### 2. Andes Retail Business Analysis
 
-## Projects
+Análisis de negocio desarrollado con datos comerciales, incluyendo limpieza de datos, métricas clave, visualización en Power BI y conclusiones para la toma de decisiones.
 
-### Andes Retail Dashboard (Power BI)
+**Herramientas:** Power BI, Power Query, DAX, modelo de datos y visualización de KPIs.
 
-Analysis of the commercial performance of Andes Retail Group for 2024–2025 using an interactive Power BI dashboard.
+**Repositorio:** [andes-retail-business-analysis](https://github.com/julieang/andes-retail-business-analysis)
 
-Key aspects analyzed:
+---
 
-- Revenue evolution over time
-- Performance comparison across countries
-- Customer segment analysis
-- Product category performance
-- Seasonal patterns in sales
+### 3. ConnectaTel Customer Analysis
 
-🔗 Project repository:  
-https://github.com/julieang/andes-retail-dashboard
+Análisis de uso y segmentación de clientes para identificar patrones de comportamiento y diferencias relevantes entre grupos.
 
-## Andes Retail Dashboard (Power BI)
+**Herramientas:** Python, Pandas, Jupyter Notebook, limpieza de datos, análisis exploratorio y segmentación.
 
-Interactive Power BI dashboard analyzing the commercial performance of Andes Retail Group during 2024–2025.
+**Repositorio:** [connectatel-customer-analysis](https://github.com/julieang/connectatel-customer-analysis)
 
-Project repository:
-https://github.com/julieang/andes-retail-dashboard
+---
+
+### 4. NovaRetail+ Correlation Analysis
+
+Análisis de correlación para identificar relaciones entre variables de comportamiento del cliente y desempeño comercial.
+
+**Herramientas:** Python, Pandas, análisis exploratorio, visualización de datos y análisis de correlación.
+
+**Repositorio:** [novaretail-correlation-analysis](https://github.com/julieang/novaretail-correlation-analysis)
+
+---
+
+### 5. EverPeak Retail Analysis
+
+Análisis exploratorio de datos comerciales para identificar patrones, valores atípicos y oportunidades de mejora.
+
+**Herramientas:** Python, Pandas, Google Colab, limpieza de datos, análisis exploratorio y tratamiento de outliers.
+
+**Repositorio:** [everpeak-analysis-1](https://github.com/julieang/everpeak-analysis-1)
+
+---
+
+## Habilidades demostradas
+
+- Limpieza y preparación de datos.
+- Análisis exploratorio de datos.
+- Creación de métricas e indicadores clave.
+- Visualización de datos para negocio.
+- Construcción de dashboards en Power BI.
+- Interpretación de resultados.
+- Comunicación clara de hallazgos.
+- Uso de Python y Pandas para análisis de datos.
+- Organización de proyectos en GitHub.
+
+## Objetivo profesional
+
+Mi objetivo es desarrollarme como Analista de Datos Junior, aplicando herramientas de análisis, visualización y comunicación de datos para ayudar a los equipos a tomar mejores decisiones basadas en información clara y confiable.
